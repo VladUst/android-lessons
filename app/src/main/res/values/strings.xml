@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidLessons</string>
+    <string name="write_msg">Введите сообщение</string>
+    <string name="save_msg">Сохранить в черновик</string>
+    <string name="no_save_msg">Не сохранять</string>
+    <string name="show_config">Показать конфигурацию</string>
+    <string name="open_list">Открыть список</string>
+    <string name="remember_config">Запомнить конфигурацию?</string>
+    <string-array name="msg_type">
+        <item>Личное</item>
+        <item>Групповое</item>
+        <item>Рассылка всем друзьям</item>
+    </string-array>
+</resources>
